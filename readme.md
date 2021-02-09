@@ -1,7 +1,7 @@
 ## Screenshots
 
-![](https://imgur.com/Ve0h2GP.png)
-![](https://imgur.com/iUBwcZk.png)
+![](https://imgur.com/IDJh4Jo.png)
+![](https://imgur.com/ezhJcV3.png)
 
 ---
 
