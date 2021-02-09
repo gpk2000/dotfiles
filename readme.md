@@ -9,11 +9,12 @@
 
 |         |       |
 |---------|-------|
+| OS      | Arch  |
 | Browser | [Brave](https://brave.com/) |
 | DE      | [Xfce4](https://www.xfce.org/) |
-| gtk-3   | [Sweet-theme](https://www.gnome-look.org/p/1253385/) |
+| gtk-3   | [arc-gtk-theme](https://archlinux.org/packages/community/any/arc-gtk-theme/) |
 | Icon-theme | [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) |
 | Terminal Emulator | Xfce4-terminal |
-| Terminal theme | [Dracula](https://github.com/gpk2000/dotfiles/blob/master/base16-dracula.theme) |
-| Music Player | [Audacious](https://audacious-media-player.org/) |
+| Terminal theme | [dracula](https://github.com/gpk2000/dotfiles/blob/master/base16-dracula.theme) |
+| Music Player | [deadbeef](https://archlinux.org/packages/community/x86_64/deadbeef/) |
 | Editor | [VSCode](https://code.visualstudio.com/) |
