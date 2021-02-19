@@ -1,7 +1,7 @@
 ## Screenshots
 
-![](https://imgur.com/IDJh4Jo.png)
-![](https://imgur.com/ezhJcV3.png)
+![](https://i.imgur.com/xXVks9r.png)
+![](https://i.imgur.com/bhB0Uza.png)
 
 ---
 
@@ -9,12 +9,11 @@
 
 |         |       |
 |---------|-------|
-| OS      | Arch  |
-| Browser | [Brave](https://brave.com/) |
-| DE      | [Xfce4](https://www.xfce.org/) |
-| gtk-3   | [arc-gtk-theme](https://archlinux.org/packages/community/any/arc-gtk-theme/) |
-| Icon-theme | [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) |
-| Terminal Emulator | Xfce4-terminal |
-| Terminal theme | [dracula](https://github.com/gpk2000/dotfiles/blob/master/base16-dracula.theme) |
-| Music Player | [deadbeef](https://archlinux.org/packages/community/x86_64/deadbeef/) |
-| Editor | [VSCode](https://code.visualstudio.com/) |
+| OS      | Pop-OS  |
+| Browser | Brave|
+| DE      | Gnome with Pop Shell as TWM |
+| gtk-3   | flat-remix-gtk-theme blue-dark|
+|Icon-theme | flat-remix-icon-theme blue-dark|
+| Terminal Emulator | gnome-terminal |
+| Music Player | clementine and spotify|
+| Editor | VSCode|
