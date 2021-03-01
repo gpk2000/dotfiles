@@ -1,7 +1,7 @@
 ## Screenshots
 
-![](https://i.imgur.com/xXVks9r.png)
-![](https://i.imgur.com/bhB0Uza.png)
+![](https://imgur.com/zIEsqPA.png)
+![](https://imgur.com/SbOwzRm.png)
 
 ---
 
@@ -9,11 +9,11 @@
 
 |         |       |
 |---------|-------|
-| OS      | Pop-OS  |
-| Browser | Brave|
-| DE      | Gnome with Pop Shell as TWM |
-| gtk-3   | flat-remix-gtk-theme blue-dark|
-|Icon-theme | flat-remix-icon-theme blue-dark|
-| Terminal Emulator | gnome-terminal |
+| OS      | Arch-Linux  |
+| Browser | Chromium|
+| DE      | xfce4 |
+| gtk-3   | matcha-gtk-theme (matcha-dark-azul)|
+|Icon-theme | papirus-icon-theme (papirus-dark)|
+| Terminal Emulator | xfce4-terminal|
 | Music Player | clementine and spotify|
 | Editor | VSCode|
