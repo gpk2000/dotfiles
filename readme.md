@@ -1,7 +1,7 @@
 ## Screenshots
 
-![](https://imgur.com/zIEsqPA.png)
-![](https://imgur.com/SbOwzRm.png)
+![](https://imgur.com/nDcKXcL.png)
+![](https://imgur.com/RJIn1QV.png)
 
 ---
 
@@ -11,9 +11,9 @@
 |---------|-------|
 | OS      | Arch-Linux  |
 | Browser | Chromium|
-| DE      | xfce4 |
+| DE      | Plasma |
 | gtk-3   | matcha-gtk-theme (matcha-dark-azul)|
 |Icon-theme | papirus-icon-theme (papirus-dark)|
-| Terminal Emulator | xfce4-terminal|
+| Terminal Emulator | Konsole|
 | Music Player | clementine and spotify|
 | Editor | VSCode|
