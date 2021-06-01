@@ -9,7 +9,7 @@
   <property name="misc-folders-first" type="bool" value="false"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
   <property name="last-separator-position" type="int" value="170"/>
-  <property name="last-details-view-column-widths" type="string" value="50,136,50,50,929,50,50,63,50,67"/>
+  <property name="last-details-view-column-widths" type="string" value="50,121,50,50,890,50,50,71,50,113"/>
   <property name="last-window-maximized" type="bool" value="true"/>
   <property name="last-menubar-visible" type="bool" value="false"/>
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
