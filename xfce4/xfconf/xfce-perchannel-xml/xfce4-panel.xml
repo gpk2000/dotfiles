@@ -40,10 +40,13 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="thunar"/>
         <value type="string" value="xfce terminal"/>
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="qBittorrent"/>
+        <value type="string" value="pgadmin4"/>
         <value type="string" value="chrome_status_icon_2"/>
         <value type="string" value="chrome_status_icon_1"/>
       </property>
@@ -51,7 +54,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance19017"/>
+      <property name="mpris-players" type="string" value="chromium.instance19017;chromium.instance19930;chromium.instance24589;chromium.instance37854;chromium.instance39050;chromium.instance49954;chromium.instance648"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
