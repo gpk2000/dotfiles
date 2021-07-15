@@ -2,8 +2,8 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Matcha-dark-azul"/>
-    <property name="IconThemeName" type="string" value="Papirus-Dark"/>
+    <property name="ThemeName" type="string" value="Mint-Y-Dark-Purple"/>
+    <property name="IconThemeName" type="string" value="Mint-Y-Dark-Purple"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
@@ -23,8 +23,8 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="empty"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="string" value="Cantarell 10"/>
-    <property name="MonospaceFontName" type="string" value="Iosevka Custom 11"/>
+    <property name="FontName" type="string" value="Cantarell Bold 10"/>
+    <property name="MonospaceFontName" type="string" value="Inconsolata 12"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
